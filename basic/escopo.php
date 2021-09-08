@@ -7,7 +7,7 @@ function mostrarLog() {
 
   global $ip;
   echo $ip;
-  echo "<br/>";
+  echo "<br>";
   global $local;
   echo $local;
 
