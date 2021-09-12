@@ -1,7 +1,7 @@
 <?php
 
 define('USER', 'well2k');
-define('PASS', 'wellcs2021');
+define('PASS', 'aaaaa');
 define('PASSFAKE', '');
 define('NICKNAME', 'well2k');
 
